@@ -82,16 +82,7 @@ A key outcome of this notebook is a documented limitation: even when patent port
 
 ## Output Files
 
-The notebooks generate several intermediate and final outputs, including:
-- `portfolio_clusters_kpss.csv` — patent portfolio transfer dataset with value proxies
-- `portfolio_clusters_eda.png` — exploratory analysis figures
-- `portfolio_clusters_stats.tex` — summary statistics table
-- `top10_transfers_by_size.tex` — largest portfolio transfers by patent count
-- `top10_transfers_by_value.tex` — largest portfolio transfers by KPSS value
-
-These files support descriptive analysis and reporting.
-
----
+The notebooks generate several intermediate and final outputs which are under the main branch
 
 ## What This Project Does and Does Not Do
 
